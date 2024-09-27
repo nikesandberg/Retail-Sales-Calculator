@@ -1,0 +1,66 @@
+[2024-09-27 10:17:44,902][INFO] Discount calculator worked successfully
+[2024-09-27 10:17:46,518][INFO] File saved successfully: db_w_discount_and_roi.csv
+[2024-09-27 10:17:46,666][INFO] Data saved to SQL database successfully.
+[2024-09-27 10:20:00,829][INFO] Pipeline initiated. Loading CSV file
+[2024-09-27 10:20:00,876][INFO] Calculating discount and original price.
+[2024-09-27 10:20:00,877][INFO] Discount calculator worked successfully
+[2024-09-27 10:20:00,877][INFO] Calculating ROI.
+[2024-09-27 10:20:02,002][INFO] Saving dataframe to csv-file
+[2024-09-27 10:20:02,170][INFO] File saved successfully: db_w_discount_and_roi.csv
+[2024-09-27 10:20:02,170][INFO] Saving dataframe to SQLite database.
+[2024-09-27 10:20:02,272][INFO] Data saved to SQL database successfully.
+[2024-09-27 10:20:02,272][INFO] Pipeline completed successfully!
+[2024-09-27 10:22:44,284][INFO] Pipeline initiated. Loading CSV file
+[2024-09-27 10:22:44,333][INFO] Calculating discount and original price.
+[2024-09-27 10:22:44,334][INFO] Discount calculator worked successfully
+[2024-09-27 10:22:44,334][INFO] Calculating ROI.
+[2024-09-27 10:22:45,444][INFO] Saving dataframe to csv-file
+[2024-09-27 10:22:45,621][INFO] File saved successfully: db_w_discount_and_roi.csv
+[2024-09-27 10:22:45,621][INFO] Saving dataframe to SQLite database.
+[2024-09-27 10:22:45,770][INFO] Data saved to SQL database successfully.
+[2024-09-27 10:22:45,770][INFO] Pipeline completed successfully!
+[2024-09-27 10:22:46,598][INFO] Pipeline initiated. Loading CSV file
+[2024-09-27 10:22:46,645][INFO] Calculating discount and original price.
+[2024-09-27 10:22:46,648][INFO] Discount calculator worked successfully
+[2024-09-27 10:22:46,648][INFO] Calculating ROI.
+[2024-09-27 10:22:47,918][INFO] Saving dataframe to csv-file
+[2024-09-27 10:22:48,104][INFO] File saved successfully: db_w_discount_and_roi.csv
+[2024-09-27 10:22:48,104][INFO] Saving dataframe to SQLite database.
+[2024-09-27 10:22:48,212][INFO] Data saved to SQL database successfully.
+[2024-09-27 10:22:48,212][INFO] Pipeline completed successfully!
+[2024-09-27 10:23:24,414][INFO] Pipeline initiated. Loading CSV file
+[2024-09-27 10:23:24,459][INFO] Calculating discount and original price.
+[2024-09-27 10:23:24,461][INFO] Discount calculator worked successfully
+[2024-09-27 10:23:24,461][INFO] Calculating ROI.
+[2024-09-27 10:23:25,564][INFO] Saving dataframe to csv-file
+[2024-09-27 10:23:25,734][INFO] File saved successfully: db_w_discount_and_roi.csv
+[2024-09-27 10:23:25,734][INFO] Saving dataframe to SQLite database.
+[2024-09-27 10:23:25,879][INFO] Data saved to SQL database successfully.
+[2024-09-27 10:23:25,879][INFO] Pipeline completed successfully!
+[2024-09-27 10:23:32,301][INFO] Pipeline initiated. Loading CSV file
+[2024-09-27 10:23:32,354][INFO] Calculating discount and original price.
+[2024-09-27 10:23:32,356][INFO] Discount calculator worked successfully
+[2024-09-27 10:23:32,356][INFO] Calculating ROI.
+[2024-09-27 10:23:33,556][INFO] Saving dataframe to csv-file
+[2024-09-27 10:23:33,749][INFO] File saved successfully: db_w_discount_and_roi.csv
+[2024-09-27 10:23:33,749][INFO] Saving dataframe to SQLite database.
+[2024-09-27 10:23:33,851][INFO] Data saved to SQL database successfully.
+[2024-09-27 10:23:33,851][INFO] Pipeline completed successfully!
+[2024-09-27 10:24:13,058][INFO] Pipeline initiated. Loading CSV file
+[2024-09-27 10:24:13,104][INFO] Calculating discount and original price.
+[2024-09-27 10:24:13,106][INFO] Discount calculator worked successfully
+[2024-09-27 10:24:13,106][INFO] Calculating ROI.
+[2024-09-27 10:24:14,191][INFO] Saving dataframe to csv-file
+[2024-09-27 10:24:14,366][INFO] File saved successfully: db_w_discount_and_roi.csv
+[2024-09-27 10:24:14,366][INFO] Saving dataframe to SQLite database.
+[2024-09-27 10:24:14,474][INFO] Data saved to SQL database successfully.
+[2024-09-27 10:24:14,474][INFO] Pipeline completed successfully!
+[2024-09-27 10:29:50,663][INFO] Pipeline initiated. Loading CSV file
+[2024-09-27 10:29:50,710][INFO] Calculating discount and original price.
+[2024-09-27 10:29:50,712][INFO] Discount calculator worked successfully
+[2024-09-27 10:29:50,712][INFO] Calculating ROI.
+[2024-09-27 10:29:51,795][INFO] Saving dataframe to csv-file
+[2024-09-27 10:29:51,997][INFO] File saved successfully: db_w_discount_and_roi.csv
+[2024-09-27 10:29:51,997][INFO] Saving dataframe to SQLite database.
+[2024-09-27 10:29:52,099][INFO] Data saved to SQL database successfully.
+[2024-09-27 10:29:52,099][INFO] Pipeline completed successfully!
